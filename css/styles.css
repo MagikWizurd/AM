@@ -13,10 +13,11 @@ body {
     column-gap: 10px;
 }
 
-h1 {
+header {
     font-size: 90px;
     text-align: center;
     color: gold;
+    background-color: rgb(15, 15, 15);
 }
 
 .toc-list, .toc-list ol {
