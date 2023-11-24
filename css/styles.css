@@ -1,0 +1,31 @@
+body {
+    font-family:'Courier New', Courier, monospace;
+    font-size: xx-large;
+    font-weight:bold;
+    background-color: black;
+    color: white;
+}
+
+.container1 {
+    display: grid;
+    align-items: center; 
+    grid-template-columns: 1fr 1fr 1fr;
+    column-gap: 10px;
+}
+
+h1 {
+    font-size: 90px;
+    text-align: center;
+}
+
+.toc-list, .toc-list ol {
+    list-style-type: none;
+  }
+  
+  .toc-list {
+    padding: 0;
+  }
+  
+  .toc-list ol {
+    padding-inline-start: 2ch;
+  }
