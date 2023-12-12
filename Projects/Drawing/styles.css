@@ -11,8 +11,9 @@ canvas{
 }
 
 button{
-
+    background-color: black;
+    color: aliceblue;
+    border-radius: 15px;
+    padding: 10px;
     float: center;
-
-}
-
+  }
