@@ -1,0 +1,14 @@
+.container {
+    text-align: center;
+    position:relative;
+
+    color:#ffffff;
+    font-family: fantasy;
+}
+
+#prediction{
+    position: absolute;
+    top: 45%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
